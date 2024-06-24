@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    password: Akhil@2020
+    url: jdbc:mysql://localhost:3306/akhilreddydb
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+razorpay:
+  key:
+    id: rzp_test_iJmCBqVFarqSot
+    secret: 1UMPMmAZ61zTYzhA8lkdHSen
